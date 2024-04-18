@@ -44,5 +44,24 @@ main header {
 }
 
 main div {
+    padding-bottom: 40px;
+    padding-left: 40px;
     background-color: #ffffff;
+}
+
+section {
+    padding-top: 35px;
+}
+
+h2 {
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+.h2-icon {
+    vertical-align: 20%;
+    display: inline-block;
+    font-size: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
 }
