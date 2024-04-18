@@ -28,6 +28,7 @@ main {
 main header {
     padding-left: 40px;
     border-bottom: 2px solid #f6f8f9;
+    border-radius: 5px 5px 0 0;
 }
 
 .button {
@@ -47,6 +48,7 @@ main div {
     padding-bottom: 40px;
     padding-left: 40px;
     background-color: #ffffff;
+    border-radius: 0 0 5px 5px;
 }
 
 section {
@@ -94,7 +96,6 @@ ul {
     font-size: 8px;
     background-color: #09a9ed;
     color: white;
-    border: 2px hidden;
     border-radius: 10px;
     vertical-align: middle;
     padding: 6px 10px;
